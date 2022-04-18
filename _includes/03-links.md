@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Images start with an !, but a link like [GitHub](https://github.com) doesn't.
